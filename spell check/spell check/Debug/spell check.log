@@ -1,0 +1,6 @@
+﻿  bst.cpp
+c:\users\shane mcsally\desktop\spell check\spell check\bst.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\shane mcsally\desktop\spell check\spell check\bst.cpp(207): warning C4101: 'temp2': unreferenced local variable
+c:\users\shane mcsally\desktop\spell check\spell check\bst.cpp(206): warning C4101: 'temp1': unreferenced local variable
+  spell check.vcxproj -> C:\Users\Shane McSally\Desktop\spell check\Debug\spell check.exe
+  spell check.vcxproj -> C:\Users\Shane McSally\Desktop\spell check\Debug\spell check.pdb (Full PDB)
